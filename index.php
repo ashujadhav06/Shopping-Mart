@@ -37,7 +37,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 
 	    <title>Shopping Portal Home Page</title>
 
-	    <!-- Bootstrap Core CSS -->
+	    
 	    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	    
 	    <!-- Customizable CSS -->
@@ -51,7 +51,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 		<link rel="stylesheet" href="assets/css/rateit.css">
 		<link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
 
-		<!-- Demo Purpose Only. Should be removed in production -->
+		
 		<link rel="stylesheet" href="assets/css/config.css">
 
 		<link href="assets/css/green.css" rel="alternate stylesheet" title="Blue color">
@@ -109,59 +109,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 </div>
 			
 <!-- ========================================= SECTION – HERO : END ========================================= -->	
-				<!-- ============================================== INFO BOXES ============================================== -->
-<! --<div class="info-boxes wow fadeInUp">
-	<div class="info-boxes-inner">
-		<div class="row">
-			<div class="col-md-6 col-sm-4 col-lg-4">
-				<div class="info-box">
-					<div class="row">
-						<div class="col-xs-2">
-						     <i class=></i>
-						</div>
-						<div class="col-xs-10">
-							<h4 class="info-box-heading green"></h4>
-						</div>
-					</div>	
-					<h6 class="text"></h6>
-				</div>
-			</div><!-- .col -->
 
-			<div class="hidden-md col-sm-4 col-lg-4">
-				<div class="info-box">
-					<div class="row">
-						<div class="col-xs-2">
-							<i class=></i>
-						</div>
-						<div class="col-xs-10">
-							<h4 class="info-box-heading orange"></h4>
-						</div>
-					</div>
-					<h6 class="text"></h6>	
-				</div>
-			</div><!-- .col -->
-
-			<div class="col-md-6 col-sm-4 col-lg-4">
-				<div class="info-box">
-					<div class="row">
-						<div class="col-xs-2">
-							<i class=></i>
-						</div>
-						<div class="col-xs-10">
-							<h4 class="info-box-heading red"></h4>
-						</div>
-					</div>
-					<h6 class="text"> </h6>	
-				</div>
-			</div><!-- .col -->
-		</div><!-- /.row -->
-	</div><!-- /.info-boxes-inner -->
-	
-</div><!-- /.info-boxes -->
-<!-- ============================================== INFO BOXES : END ============================================== -->		
-			</div><!-- /.homebanner-holder -->
-			
-		</div><!-- /.row -->-->	
 
 		<!-- ============================================== SCROLL TABS ============================================== -->
 		<div id="product-tabs-slider" class="scroll-tabs inner-bottom-vs  wow fadeInUp">
